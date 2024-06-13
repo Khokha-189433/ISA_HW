@@ -1,0 +1,71 @@
+.App {
+  margin-top: 20px;
+  background: linear-gradient(to right,rgba(212, 0, 255, 0.164),rgba(174, 0, 255, 0.644));
+  display: flex;
+  justify-items: center;
+  padding: 10px;
+  margin-left: 10px;
+  height: 100vh;
+  }
+
+.inputStyle {
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  
+}
+
+.buttonStyle {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #60037cb7;
+  color:white;
+  border: none;
+  padding: 8px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  margin: 10px;
+}
+
+.advancedOptionsStyle {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+}
+
+.Algorithm_div{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.Add-Route{
+  display: flex;
+  flex-direction: column;
+  margin-left: 140px;
+  display: block;
+}
+button{
+  background-color: #60037cb7;
+  color:white;
+  border: none;
+  padding: 8px;
+  width: 12rem;
+  margin :15px;
+ border-radius: 10px;
+ border-radius: 10px;
+}
+
+
+.Added-Items{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
